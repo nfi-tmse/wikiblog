@@ -1,7 +1,5 @@
 # wikiblog
-Blog posts using GitHub wiki's, cuz why not?
-
-[Click here](https://github.com/nfi-tmse/wikiblog/wiki) to check out the posts.
+Blog posts using GitHub wiki's, cuz why not? [Click here](https://github.com/nfi-tmse/wikiblog/wiki) to check out the posts.Cancel Changes
 
 # Featured Posts
 
