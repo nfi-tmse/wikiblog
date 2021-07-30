@@ -6,4 +6,4 @@ Blog posts using GitHub wikis, cuz why not? 🤷
 # Featured
 
 - [Digital What?](https://github.com/nfi-tmse/wikiblog/wiki/Digital-What%3F)
-- [Game of Implementations](https://github.com/nfi-tmse/wikiblog/wiki/Game-of-Implementations)
+- [PENDING | A 0.1.0](https://github.com/nfi-twin/wikiblog/wiki/PENDING-%7C-A-0.1.0)
